@@ -1,4 +1,4 @@
-# Object-Oriented Programming in Python with Vehicles
+# Object-Oriented Programming in Python
 
 Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects. In this tutorial, you'll learn the basics of object-oriented programming in Python with an example of vehicles.
 
