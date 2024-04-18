@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md file that you can use to describe object-oriented programming in Python with an example of vehicles. This README includes explanations, code examples, and questions to help readers understand the concepts better.
-
----
-
 # Object-Oriented Programming in Python with Vehicles
 
 Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects. In this tutorial, you'll learn the basics of object-oriented programming in Python with an example of vehicles.
