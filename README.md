@@ -4,18 +4,18 @@ Object-oriented programming (OOP) is a method of structuring a program by bundli
 
 ## Table of Contents
 
-- [What Is Object-Oriented Programming in Python?
-- [What Is a Class in Python?
-- [How Do You Define a Class in Python?
-- [How Do You Instantiate a Class in Python?
-- [What Are Class and Instance Attributes?
-- [What Is an Instance Method?
-- [How Do You Inherit From Another Class in Python?
-- [Example: Vehicles and Subclasses
-- [What Are Parent Classes and Child Classes?
-- [What Is Method Overriding?
-- [Conclusion
-- [Exercise: Create a Bicycle Class
+- What Is Object-Oriented Programming in Python?
+- What Is a Class in Python?
+- How Do You Define a Class in Python?
+- How Do You Instantiate a Class in Python?
+- What Are Class and Instance Attributes?
+- What Is an Instance Method?
+- How Do You Inherit From Another Class in Python?
+- Example: Vehicles and Subclasses
+- What Are Parent Classes and Child Classes?
+- What Is Method Overriding?
+- Conclusion
+- Exercise: Create a Bicycle Class
 
 ---
 
